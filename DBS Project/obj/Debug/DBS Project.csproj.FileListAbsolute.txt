@@ -1,0 +1,23 @@
+E:\DBMS\DBS Project\DBS Project\bin\Debug\DBS Project.exe.config
+E:\DBMS\DBS Project\DBS Project\bin\Debug\DBS Project.exe
+E:\DBMS\DBS Project\DBS Project\bin\Debug\DBS Project.pdb
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS Project.csprojResolveAssemblyReference.cache
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form1.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Properties.Resources.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS Project.csproj.GenerateResource.Cache
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS Project.csproj.CoreCompileInputs.cache
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS Project.exe
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS Project.pdb
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form2.resources
+E:\DBMS\DBS Project\DBS Project\bin\Debug\Oracle.DataAccess.dll
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form3.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form5.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form6.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form7.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form8.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form9.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form10.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form11.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form12.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form13.resources
+E:\DBMS\DBS Project\DBS Project\obj\Debug\DBS_Project.Form4.resources
